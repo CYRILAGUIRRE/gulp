@@ -1,0 +1,17 @@
+div {
+  height: 50vh;
+  margin: 10px;
+  bottom: 1px;
+  background: blue;
+  p {
+    color: green;
+    height: 20px;
+    background: green;
+    padding-top: 5vh;
+    transform: translate(10);
+  }
+}
+p {
+  background: pink;
+  height: 40px;
+}
